@@ -1,2 +1,3 @@
 update README
 initial rough version
+refactor small function
