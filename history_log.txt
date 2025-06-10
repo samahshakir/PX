@@ -1,1 +1,2 @@
 update README
+initial rough version
