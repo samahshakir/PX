@@ -2,3 +2,4 @@ update README
 initial rough version
 refactor small function
 adjust spacing and lint warnings
+fix typo in comment
