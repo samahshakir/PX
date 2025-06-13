@@ -119,3 +119,4 @@ improve internal docs
 patch intermittent null reference issue
 minor cleanup
 prototype UI component
+remove unused variable
