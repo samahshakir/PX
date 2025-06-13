@@ -120,3 +120,4 @@ patch intermittent null reference issue
 minor cleanup
 prototype UI component
 remove unused variable
+add usage instructions
