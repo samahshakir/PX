@@ -122,3 +122,4 @@ prototype UI component
 remove unused variable
 add usage instructions
 upgrade dependencies
+fix build step for production
