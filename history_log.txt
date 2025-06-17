@@ -7,3 +7,4 @@ update deployment config
 update .gitignore
 wip cleanup
 optimize response time a bit
+add simple code example
