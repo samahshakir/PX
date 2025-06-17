@@ -121,3 +121,4 @@ minor cleanup
 prototype UI component
 remove unused variable
 add usage instructions
+upgrade dependencies
