@@ -14,3 +14,4 @@ update changelog
 add basic error handler
 cleanup formatting
 cleanup formatting
+add simple code example
