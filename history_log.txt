@@ -16,3 +16,4 @@ cleanup formatting
 cleanup formatting
 add simple code example
 added simple caching layer
+update npm packages
