@@ -18,3 +18,4 @@ add simple code example
 added simple caching layer
 update npm packages
 wip cleanup
+improve internal docs
