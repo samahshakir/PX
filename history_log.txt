@@ -125,3 +125,4 @@ upgrade dependencies
 fix build step for production
 update changelog
 improve internal docs
+update npm packages
