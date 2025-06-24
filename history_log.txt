@@ -126,3 +126,4 @@ fix build step for production
 update changelog
 improve internal docs
 update npm packages
+adjust spacing and lint warnings
