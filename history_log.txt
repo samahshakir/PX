@@ -20,3 +20,4 @@ update npm packages
 wip cleanup
 improve internal docs
 add simple code example
+fix typo in comment
