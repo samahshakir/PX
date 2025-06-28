@@ -129,3 +129,4 @@ update npm packages
 adjust spacing and lint warnings
 experimenting with auth flow
 update .gitignore
+patch intermittent null reference issue
