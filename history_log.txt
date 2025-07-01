@@ -132,3 +132,4 @@ update .gitignore
 patch intermittent null reference issue
 try new layout idea
 patch intermittent null reference issue
+add logs for analysis
