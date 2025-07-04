@@ -135,3 +135,4 @@ patch intermittent null reference issue
 add logs for analysis
 start work on dashboard layout
 basic settings page
+update deployment config
