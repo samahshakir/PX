@@ -26,3 +26,4 @@ temporary commit for debugging
 fix date parsing bug
 correct failed state transition
 fix API response handling bug
+cleanup formatting
