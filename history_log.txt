@@ -137,3 +137,4 @@ start work on dashboard layout
 basic settings page
 update deployment config
 add experimental feature toggle
+tweak CI pipeline settings
