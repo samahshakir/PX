@@ -30,3 +30,4 @@ cleanup formatting
 remove unused variable
 fix broken mobile layout
 resolve CORS issue
+add usage instructions
