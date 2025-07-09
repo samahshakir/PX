@@ -32,3 +32,4 @@ fix broken mobile layout
 resolve CORS issue
 add usage instructions
 document new API endpoint
+resolve timeout issue
