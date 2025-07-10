@@ -33,3 +33,4 @@ resolve CORS issue
 add usage instructions
 document new API endpoint
 resolve timeout issue
+fix minor UI glitch
