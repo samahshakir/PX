@@ -35,3 +35,4 @@ document new API endpoint
 resolve timeout issue
 fix minor UI glitch
 add usage instructions
+remove dead code
