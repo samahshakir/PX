@@ -37,3 +37,4 @@ fix minor UI glitch
 add usage instructions
 remove dead code
 fix build step for production
+upgrade dependencies
