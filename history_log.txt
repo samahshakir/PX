@@ -39,3 +39,4 @@ remove dead code
 fix build step for production
 upgrade dependencies
 minor cleanup
+add usage instructions
