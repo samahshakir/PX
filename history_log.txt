@@ -147,3 +147,4 @@ remove dead code
 add initial API integration
 added simple caching layer
 rearrange folder structure
+fix date parsing bug
