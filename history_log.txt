@@ -44,3 +44,4 @@ update deployment config
 quick patch
 resolve CORS issue
 minor cleanup
+improve internal docs
