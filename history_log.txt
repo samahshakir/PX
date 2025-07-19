@@ -151,3 +151,4 @@ fix date parsing bug
 temporary commit for debugging
 fix pagination issue
 add initial API integration
+fix broken mobile layout
