@@ -155,3 +155,4 @@ fix broken mobile layout
 wip: trying a new approach
 rearrange folder structure
 fix minor UI glitch
+patch wrong config value
