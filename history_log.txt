@@ -156,3 +156,4 @@ wip: trying a new approach
 rearrange folder structure
 fix minor UI glitch
 patch wrong config value
+cleanup Dockerfile
