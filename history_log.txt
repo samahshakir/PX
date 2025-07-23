@@ -160,3 +160,4 @@ cleanup Dockerfile
 fix typo in comment
 implement draft notifications system
 cleanup formatting
+fix crash on startup
