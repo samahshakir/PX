@@ -161,3 +161,4 @@ fix typo in comment
 implement draft notifications system
 cleanup formatting
 fix crash on startup
+refactor small function
