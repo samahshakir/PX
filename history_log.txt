@@ -49,3 +49,4 @@ document new API endpoint
 add search filter logic
 add usage instructions
 fix typo in comment
+quick patch
