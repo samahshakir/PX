@@ -51,3 +51,4 @@ add usage instructions
 fix typo in comment
 quick patch
 upgrade dependencies
+fix minor UI glitch
