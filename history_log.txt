@@ -171,3 +171,4 @@ fix pagination issue
 fix API response handling bug
 fix minor UI glitch
 rearrange folder structure
+try new layout idea
