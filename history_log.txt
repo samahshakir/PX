@@ -173,3 +173,4 @@ fix minor UI glitch
 rearrange folder structure
 try new layout idea
 update changelog
+add initial API integration
