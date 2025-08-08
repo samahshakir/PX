@@ -176,3 +176,4 @@ update changelog
 add initial API integration
 start work on dashboard layout
 fix broken mobile layout
+update changelog
