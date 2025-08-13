@@ -60,3 +60,4 @@ fix API response handling bug
 cleanup formatting
 update environment variables
 add experimental feature toggle
+hotfix after deployment
