@@ -65,3 +65,4 @@ hotfix after deployment
 resolve timeout issue
 correct failed state transition
 small tweak to UX
+resolve CORS issue
