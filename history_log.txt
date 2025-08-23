@@ -194,3 +194,4 @@ remove console logs
 remove unused variable
 wip cleanup
 fix pagination issue
+cleanup Dockerfile
