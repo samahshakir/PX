@@ -67,3 +67,4 @@ correct failed state transition
 small tweak to UX
 resolve CORS issue
 add experimental feature toggle
+remove dead code
