@@ -197,3 +197,4 @@ fix pagination issue
 cleanup Dockerfile
 add initial API integration
 small tweak to UX
+remove console logs
