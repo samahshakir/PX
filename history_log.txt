@@ -69,3 +69,4 @@ resolve CORS issue
 add experimental feature toggle
 remove dead code
 fix minor UI glitch
+improve internal docs
