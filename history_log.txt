@@ -199,3 +199,4 @@ add initial API integration
 small tweak to UX
 remove console logs
 add missing scripts
+upgrade dependencies
