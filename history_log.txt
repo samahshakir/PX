@@ -203,3 +203,4 @@ upgrade dependencies
 try new layout idea
 implement draft notifications system
 tweak CI pipeline settings
+add basic error handler
