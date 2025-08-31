@@ -207,3 +207,4 @@ add basic error handler
 adjust spacing and lint warnings
 add stage env config
 prototype UI component
+optimize response time a bit
