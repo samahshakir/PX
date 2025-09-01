@@ -74,3 +74,4 @@ remove unused variable
 added simple caching layer
 start work on dashboard layout
 rearrange folder structure
+fix crash on startup
