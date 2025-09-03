@@ -210,3 +210,4 @@ prototype UI component
 optimize response time a bit
 add initial API integration
 fix minor UI glitch
+update environment variables
