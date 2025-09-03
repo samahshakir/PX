@@ -76,3 +76,4 @@ start work on dashboard layout
 rearrange folder structure
 fix crash on startup
 rearrange folder structure
+improve internal docs
