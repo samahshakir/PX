@@ -79,3 +79,4 @@ rearrange folder structure
 improve internal docs
 quick patch
 remove console logs
+update deployment config
