@@ -80,3 +80,4 @@ improve internal docs
 quick patch
 remove console logs
 update deployment config
+document new API endpoint
