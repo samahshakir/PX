@@ -84,3 +84,4 @@ document new API endpoint
 initial rough version
 remove unused variable
 fix minor UI glitch
+adjust spacing and lint warnings
