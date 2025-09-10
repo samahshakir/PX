@@ -213,3 +213,4 @@ fix minor UI glitch
 update environment variables
 add initial API integration
 try new layout idea
+adjust spacing and lint warnings
