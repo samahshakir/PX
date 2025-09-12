@@ -90,3 +90,4 @@ fix typo in comment
 fix minor UI glitch
 prototype UI component
 small tweak to UX
+added simple caching layer
