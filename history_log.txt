@@ -102,3 +102,4 @@ hotfix after deployment
 initial rough version
 update environment variables
 quick revision
+update deployment config
