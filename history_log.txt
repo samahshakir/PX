@@ -219,3 +219,4 @@ add search filter logic
 update environment variables
 cleanup formatting
 document new API endpoint
+add basic error handler
