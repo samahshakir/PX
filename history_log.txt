@@ -107,3 +107,4 @@ resolve CORS issue
 adjust spacing and lint warnings
 add missing scripts
 minor cleanup
+try new layout idea
