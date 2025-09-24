@@ -223,3 +223,4 @@ add basic error handler
 add experimental feature toggle
 fix crash on startup
 remove dead code
+basic settings page
