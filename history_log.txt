@@ -111,3 +111,4 @@ try new layout idea
 patch wrong config value
 fix minor UI glitch
 resolve CORS issue
+hotfix after deployment
