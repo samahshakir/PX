@@ -114,3 +114,4 @@ resolve CORS issue
 hotfix after deployment
 minor cleanup
 basic settings page
+cleanup formatting
