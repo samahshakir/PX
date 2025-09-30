@@ -225,3 +225,4 @@ fix crash on startup
 remove dead code
 basic settings page
 start work on dashboard layout
+add basic error handler
