@@ -116,3 +116,4 @@ minor cleanup
 basic settings page
 cleanup formatting
 improve internal docs
+patch intermittent null reference issue
