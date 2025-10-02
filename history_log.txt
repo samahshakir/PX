@@ -115,3 +115,4 @@ hotfix after deployment
 minor cleanup
 basic settings page
 cleanup formatting
+improve internal docs
