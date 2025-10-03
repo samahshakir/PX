@@ -232,3 +232,4 @@ quick revision
 implement partial login flow
 resolve timeout issue
 update README
+update npm packages
