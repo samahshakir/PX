@@ -234,3 +234,4 @@ resolve timeout issue
 update README
 update npm packages
 minor cleanup
+tweak CI pipeline settings
