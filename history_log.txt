@@ -238,3 +238,4 @@ tweak CI pipeline settings
 add search filter logic
 quick revision
 remove dead code
+basic settings page
