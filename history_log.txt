@@ -241,3 +241,4 @@ remove dead code
 basic settings page
 added simple caching layer
 try new layout idea
+update changelog
