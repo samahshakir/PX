@@ -243,3 +243,4 @@ added simple caching layer
 try new layout idea
 update changelog
 fix build step for production
+update changelog
