@@ -246,3 +246,4 @@ fix build step for production
 update changelog
 refactor small function
 add experimental feature toggle
+add basic error handler
