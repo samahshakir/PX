@@ -247,3 +247,4 @@ update changelog
 refactor small function
 add experimental feature toggle
 add basic error handler
+cleanup formatting
