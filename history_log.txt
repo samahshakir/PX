@@ -250,3 +250,4 @@ add basic error handler
 cleanup formatting
 add initial API integration
 quick patch
+remove console logs
