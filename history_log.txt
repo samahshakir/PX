@@ -255,3 +255,4 @@ refactor small function
 document new API endpoint
 add usage instructions
 temporary commit for debugging
+add logs for analysis
