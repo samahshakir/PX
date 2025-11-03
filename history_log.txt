@@ -258,3 +258,4 @@ temporary commit for debugging
 add logs for analysis
 add experimental feature toggle
 cleanup formatting
+add basic error handler
