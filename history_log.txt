@@ -261,3 +261,4 @@ cleanup formatting
 add basic error handler
 wip cleanup
 update changelog
+add basic error handler
