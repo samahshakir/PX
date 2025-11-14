@@ -273,3 +273,4 @@ update README
 upgrade dependencies
 initial rough version
 add stage env config
+update deployment config
