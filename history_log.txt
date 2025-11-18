@@ -275,3 +275,4 @@ initial rough version
 add stage env config
 update deployment config
 correct failed state transition
+update deployment config
