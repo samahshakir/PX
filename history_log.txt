@@ -281,3 +281,4 @@ cleanup Dockerfile
 document new API endpoint
 implement partial login flow
 fix broken mobile layout
+add simple code example
