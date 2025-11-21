@@ -280,3 +280,4 @@ experimenting with auth flow
 cleanup Dockerfile
 document new API endpoint
 implement partial login flow
+fix broken mobile layout
