@@ -279,3 +279,4 @@ update deployment config
 experimenting with auth flow
 cleanup Dockerfile
 document new API endpoint
+implement partial login flow
