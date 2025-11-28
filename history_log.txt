@@ -283,3 +283,4 @@ implement partial login flow
 fix broken mobile layout
 add simple code example
 experimenting with auth flow
+fix typo in comment
