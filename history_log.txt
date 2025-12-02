@@ -287,3 +287,4 @@ fix typo in comment
 update README
 temporary commit for debugging
 experimenting with auth flow
+optimize response time a bit
