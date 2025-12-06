@@ -289,3 +289,4 @@ temporary commit for debugging
 experimenting with auth flow
 optimize response time a bit
 experimenting with auth flow
+resolve CORS issue
