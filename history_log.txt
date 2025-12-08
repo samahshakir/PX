@@ -291,3 +291,4 @@ optimize response time a bit
 experimenting with auth flow
 resolve CORS issue
 hotfix after deployment
+document new API endpoint
